@@ -1,0 +1,672 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\explosion.xnb</Output>
+      <Time>2012-09-08T21:17:29.6548655-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laserFire.wav</Source>
+      <Name>Sounds\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\laserFire.xnb</Output>
+      <Time>2012-09-08T21:17:29.6628703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\metal_impact_01.wav</Source>
+      <Name>Sounds\metal_impact_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\metal_impact_01.xnb</Output>
+      <Time>2012-09-11T11:34:03.1871389-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\singleGunShot_01.wav</Source>
+      <Name>Sounds\singleGunShot_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\singleGunShot_01.xnb</Output>
+      <Time>2012-09-11T11:34:45.5382806-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\testCannon_01.wav</Source>
+      <Name>Sounds\testCannon_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\testCannon_01.xnb</Output>
+      <Time>2012-09-15T13:46:09.7641984-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameMusic.mp3</Source>
+      <Name>Sounds\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\gameMusic.xnb</Output>
+      <Extra>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\gameMusic.wma</Extra>
+      <Time>2012-09-08T21:17:29.6588679-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuMusic.mp3</Source>
+      <Name>Sounds\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\menuMusic.xnb</Output>
+      <Extra>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\menuMusic.wma</Extra>
+      <Time>2012-09-08T21:17:29.6668727-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\metal_impact.mp3</Source>
+      <Name>Sounds\metal_impact</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\metal_impact.xnb</Output>
+      <Extra>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\metal_impact.wma</Extra>
+      <Time>2012-05-16T12:16:55.9348385-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\singleGunShot.mp3</Source>
+      <Name>Sounds\singleGunShot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\singleGunShot.xnb</Output>
+      <Extra>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\singleGunShot.wma</Extra>
+      <Time>2012-05-08T21:19:18.9589176-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Combat_Airwolf.mp3</Source>
+      <Name>Sounds\Combat_Airwolf</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\Combat_Airwolf.xnb</Output>
+      <Extra>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\Sounds\Combat_Airwolf.wma</Extra>
+      <Time>2012-11-12T20:02:26.2326693-08:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer1.png</Source>
+      <Name>bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\bgLayer1.xnb</Output>
+      <Time>2012-09-08T15:10:23.5463572-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2.png</Source>
+      <Name>bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\bgLayer2.xnb</Output>
+      <Time>2012-09-08T15:10:23.5931587-07:00</Time>
+    </Item>
+    <Item>
+      <Source>endMenu.png</Source>
+      <Name>endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\endMenu.xnb</Output>
+      <Time>2012-09-08T15:10:23.6399602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\explosion.xnb</Output>
+      <Time>2012-09-08T15:10:23.6711612-07:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\laser.xnb</Output>
+      <Time>2012-09-08T15:10:23.7023622-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\mainbackground.xnb</Output>
+      <Time>2012-09-08T15:10:23.7179627-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\mainMenu.xnb</Output>
+      <Time>2012-09-08T15:10:23.9363697-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mine.png</Source>
+      <Name>mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\mine.xnb</Output>
+      <Time>2012-09-08T15:10:23.9519702-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation.png</Source>
+      <Name>mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\mineAnimation.xnb</Output>
+      <Time>2012-09-08T15:10:23.9675707-07:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\player.xnb</Output>
+      <Time>2012-09-08T15:10:23.9831712-07:00</Time>
+    </Item>
+    <Item>
+      <Source>shipAnimation.png</Source>
+      <Name>shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\shipAnimation.xnb</Output>
+      <Time>2012-09-08T15:10:24.0143722-07:00</Time>
+    </Item>
+    <Item>
+      <Source>continue.png</Source>
+      <Name>continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\continue.xnb</Output>
+      <Time>2012-09-10T22:15:04.7420935-07:00</Time>
+    </Item>
+    <Item>
+      <Source>credits.png</Source>
+      <Name>credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\credits.xnb</Output>
+      <Time>2012-09-10T22:14:32.3979723-07:00</Time>
+    </Item>
+    <Item>
+      <Source>intro.png</Source>
+      <Name>intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\intro.xnb</Output>
+      <Time>2012-09-10T22:15:24.8848245-07:00</Time>
+    </Item>
+    <Item>
+      <Source>aBaseTitle_01_sm.png</Source>
+      <Name>aBaseTitle_01_sm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\aBaseTitle_01_sm.xnb</Output>
+      <Time>2012-06-05T16:29:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>af_Top_sm_new.png</Source>
+      <Name>af_Top_sm_new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\af_Top_sm_new.xnb</Output>
+      <Time>2012-09-04T11:50:12.5412622-07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyBullet.png</Source>
+      <Name>enemyBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\enemyBullet.xnb</Output>
+      <Time>2012-09-10T23:46:50.0465183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FW_Continue.png</Source>
+      <Name>FW_Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\FW_Continue.xnb</Output>
+      <Time>2012-09-11T08:58:57.6443966-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FW_Credits.png</Source>
+      <Name>FW_Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\FW_Credits.xnb</Output>
+      <Time>2012-09-11T08:57:47.6015212-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FW_End.png</Source>
+      <Name>FW_End</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\FW_End.xnb</Output>
+      <Time>2012-09-11T08:59:45.6974686-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FW_Intro.png</Source>
+      <Name>FW_Intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\FW_Intro.xnb</Output>
+      <Time>2012-09-11T09:07:05.772279-07:00</Time>
+    </Item>
+    <Item>
+      <Source>heroBullet.png</Source>
+      <Name>heroBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\heroBullet.xnb</Output>
+      <Time>2012-05-29T21:04:14.7238507-07:00</Time>
+    </Item>
+    <Item>
+      <Source>iL_Green.png</Source>
+      <Name>iL_Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\iL_Green.xnb</Output>
+      <Time>2012-06-06T08:54:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>iL_Orange.png</Source>
+      <Name>iL_Orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\iL_Orange.xnb</Output>
+      <Time>2012-06-06T08:55:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>iL_Red.png</Source>
+      <Name>iL_Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\iL_Red.xnb</Output>
+      <Time>2012-06-06T08:56:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>iL_Yellow.png</Source>
+      <Name>iL_Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\iL_Yellow.xnb</Output>
+      <Time>2012-06-06T08:55:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>indicatorBar.png</Source>
+      <Name>indicatorBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\indicatorBar.xnb</Output>
+      <Time>2012-06-06T09:54:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>paperRotorTest.png</Source>
+      <Name>paperRotorTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\paperRotorTest.xnb</Output>
+      <Time>2012-09-04T11:40:48.3373994-07:00</Time>
+    </Item>
+    <Item>
+      <Source>small_myMiG15_2.png</Source>
+      <Name>small_myMiG15_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\small_myMiG15_2.xnb</Output>
+      <Time>2012-09-10T23:38:54.046304-07:00</Time>
+    </Item>
+    <Item>
+      <Source>test01_mig_21.png</Source>
+      <Name>test01_mig_21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\test01_mig_21.xnb</Output>
+      <Time>2012-09-04T14:33:53.3698606-07:00</Time>
+    </Item>
+    <Item>
+      <Source>test02_MiG_19C_dark_sm.png</Source>
+      <Name>test02_MiG_19C_dark_sm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\test02_MiG_19C_dark_sm.xnb</Output>
+      <Time>2012-09-10T23:41:34.8589092-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testBulletImpact.png</Source>
+      <Name>testBulletImpact</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testBulletImpact.xnb</Output>
+      <Time>2011-04-01T09:42:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testUI_sidebar_01.png</Source>
+      <Name>testUI_sidebar_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testUI_sidebar_01.xnb</Output>
+      <Time>2012-05-29T20:54:53.2854018-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testBulletImpact_02.png</Source>
+      <Name>testBulletImpact_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testBulletImpact_02.xnb</Output>
+      <Time>2012-09-11T13:14:08.8856533-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testAlvin_ground_01.png</Source>
+      <Name>testAlvin_ground_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testAlvin_ground_01.xnb</Output>
+      <Time>2012-05-23T07:15:49.0746358-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fwLifeCounter.png</Source>
+      <Name>fwLifeCounter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\fwLifeCounter.xnb</Output>
+      <Time>2012-09-11T13:38:24.1151518-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FW_Credits02.png</Source>
+      <Name>FW_Credits02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\FW_Credits02.xnb</Output>
+      <Time>2012-09-12T23:26:25.6233289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testUI_sidebar_02.png</Source>
+      <Name>testUI_sidebar_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testUI_sidebar_02.xnb</Output>
+      <Time>2012-09-12T23:06:27.0284954-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testBG01.png</Source>
+      <Name>testBG01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\testBG01.xnb</Output>
+      <Time>2012-09-14T00:28:41.4082163-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds01op025.png</Source>
+      <Name>clouds01op025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds01op025.xnb</Output>
+      <Time>2012-09-12T23:50:28.4448289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds01op050.png</Source>
+      <Name>clouds01op050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds01op050.xnb</Output>
+      <Time>2012-09-12T23:49:01.2357289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds01op075.png</Source>
+      <Name>clouds01op075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds01op075.xnb</Output>
+      <Time>2012-09-12T23:48:26.5273289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds01op100.png</Source>
+      <Name>clouds01op100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds01op100.xnb</Output>
+      <Time>2012-09-12T23:47:47.0605289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds02op025.png</Source>
+      <Name>clouds02op025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds02op025.xnb</Output>
+      <Time>2012-09-12T23:53:10.2665289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds02op050.png</Source>
+      <Name>clouds02op050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds02op050.xnb</Output>
+      <Time>2012-09-12T23:52:37.9967289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds02op075.png</Source>
+      <Name>clouds02op075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds02op075.xnb</Output>
+      <Time>2012-09-12T23:52:14.2833289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds02op100.png</Source>
+      <Name>clouds02op100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds02op100.xnb</Output>
+      <Time>2012-09-12T23:51:13.9714289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds03op025.png</Source>
+      <Name>clouds03op025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds03op025.xnb</Output>
+      <Time>2012-09-12T23:58:46.3715789-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds03op050.png</Source>
+      <Name>clouds03op050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds03op050.xnb</Output>
+      <Time>2012-09-12T23:56:23.6051789-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds03op075.png</Source>
+      <Name>clouds03op075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds03op075.xnb</Output>
+      <Time>2012-09-12T23:55:52.2807289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds03op100.png</Source>
+      <Name>clouds03op100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds03op100.xnb</Output>
+      <Time>2012-09-12T23:55:22.0533289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds04op025.png</Source>
+      <Name>clouds04op025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds04op025.xnb</Output>
+      <Time>2012-09-13T13:12:18.1408894-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds04op050.png</Source>
+      <Name>clouds04op050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds04op050.xnb</Output>
+      <Time>2012-09-13T13:11:54.9041368-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds04op075.png</Source>
+      <Name>clouds04op075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds04op075.xnb</Output>
+      <Time>2012-09-13T13:11:33.2341517-07:00</Time>
+    </Item>
+    <Item>
+      <Source>clouds04op100.png</Source>
+      <Name>clouds04op100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\clouds04op100.xnb</Output>
+      <Time>2012-09-13T13:11:06.7831356-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sm_IL-28.png</Source>
+      <Name>sm_IL-28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\sm_IL-28.xnb</Output>
+      <Time>2012-09-13T15:13:28.5603885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>aLogo.png</Source>
+      <Name>aLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\aLogo.xnb</Output>
+      <Time>2012-06-04T20:22:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pause.png</Source>
+      <Name>pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\pause.xnb</Output>
+      <Time>2012-09-14T21:51:33.124825-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\gameFont.xnb</Output>
+      <Time>2012-09-11T13:36:31.1555939-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\FanwoolfContent\</RootDirectory>
+      <LoggerRootDirectory>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\FanwoolfContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>G:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\Fanwoolf\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-22T19:03:18.9783146-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

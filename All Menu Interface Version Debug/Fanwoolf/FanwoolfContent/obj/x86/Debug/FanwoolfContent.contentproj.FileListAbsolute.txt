@@ -1,0 +1,4 @@
+D:\Alvin\Fanwoolf\Fanwoolf\Fanwoolf\FanwoolfContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1 LOOK School and Old Drive Files\AI quarters\07_Summer 2012\Fanwoolf\Fanwoolf\Fanwoolf\FanwoolfContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\1 LOOK School and Old Drive Files\AI quarters\07_Summer 2012\Fanwoolf\Fanwoolf\Fanwoolf\FanwoolfContent\obj\x86\Debug\FanwoolfContent.contentprojResolveAssemblyReference.cache
+H:\__Airwolf Demos\All Menu Interface Version Debug\Fanwoolf\FanwoolfContent\obj\x86\Debug\FanwoolfContent.contentprojResolveAssemblyReference.cache
