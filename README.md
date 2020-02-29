@@ -3,6 +3,9 @@ Top Down 1941 style demo shooter game made with C# and XNA, artwork by Courtney 
 Demo game made as a final senior project (two quarters long) at Art Institute San Diego, submitted Spring 2012.
 
 ## My Source Code and Completed Project Folders
+-begin update 29 Feb 2020-
+added a zip file that contains all items mentioned below needed for installation.  just uncompress zip file and run the "setup" file and it should install.
+--end update 29 Feb 2020--
 
 This project spans two folders, one for the source, and the other the resulting installable for MS Windows machines.
 To install the completed project, copy the two files and the "Application Files" subfolder into where you want to install, then run the "Setup" executable.
