@@ -4,7 +4,9 @@ Demo game made as a final senior project (two quarters long) at Art Institute Sa
 
 ## My Source Code and Completed Project Folders
 -begin update 29 Feb 2020-
+
 added a zip file that contains all items mentioned below needed for installation.  just uncompress zip file and run the "setup" file and it should install.
+
 --end update 29 Feb 2020--
 
 This project spans two folders, one for the source, and the other the resulting installable for MS Windows machines.
