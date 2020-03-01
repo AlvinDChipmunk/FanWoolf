@@ -23,7 +23,7 @@ If you have an XBox joystick, you can plug that into one of your USB ports, to e
 ## Creators
 
 * **Alvin Revilas** - *Programmer* - [AlvinDChipmunk](https://github.com/AlvinDChipmunk)
-* **Courtney Tucker** - *Artist*
+* **Courtney Tucker** - *Artist* - [Ctucker9233](https://github.com/Ctucker9233)
 
 Source/Inspiration TV show - "Airwolf", produced by Donald P. Bellisario
 Wikipaedia link for "Airwolf" - (https://en.wikipedia.org/wiki/Airwolf)
