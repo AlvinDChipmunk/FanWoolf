@@ -9,8 +9,8 @@ added a zip file that contains all items mentioned below needed for installation
 
 --end update 29 Feb 2020--
 
-This project spans two folders, one for the source named "All Menu Interface Version Debug", and the other the resulting installable for MS Windows machines.
-To install the completed project, copy the two files and the "Application Files" subfolder into where you want to install, then run the "Setup" executable.
+This project spans two folders, one for the source named "All Menu Interface Version Debug", and the other folder named "FanwoolfDemo", the resulting installable for MS Windows machines.
+To install the completed project, copy, from inside  the "FanwoolfDemo" folder, to the two files and the "Application Files" subfolder into where you want to install, then run the "Setup" executable.
 The "All Menu Interface Version Debug" folder is where I did my development.
 
 ### Installation Prerequisites
